@@ -16,7 +16,7 @@ const bookApt = () => {
 // Form Validation function
 
 const validate = () => {
-    
+    // Adding a form validation function
 }
 
 
