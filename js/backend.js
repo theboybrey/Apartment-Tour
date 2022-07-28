@@ -17,6 +17,7 @@ const bookApt = () => {
 
 const validate = () => {
     // Adding a form validation function
+    // There will be an auto validatin for the form and some 
 }
 
 
