@@ -10,3 +10,4 @@
 - This Website allows Users to scout and book for aethestic and luxurious places around the Globe.
 - This is A Bibabrey Initiative 
 
+![Continental Lux Apartment Booking](/fullpage.png "Full Page View")
